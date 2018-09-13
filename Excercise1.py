@@ -18,3 +18,5 @@ while repeat != 0:
     print("Hello", name, "\nYou are", age, "years old.\nYou will turn 100 years old in {}.\n".format(turn100))
     repeat -= 1
 print("Hello", name, "\nYou are", age , "years old.\nYou will turn 100 years old in {}.".format(turn100))
+
+print('just learning how to work with pycharm and git')
